@@ -1,0 +1,19 @@
+{
+  "name": "vue-spa",
+  "version": "0.0.0",
+  "license": "MIT", 
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "esfract": "^0.0.0",
+    "vue": "^3.2.37",
+    "vue-router": "^4.0.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.1",
+    "vite": "^3.0.4"
+  }
+}
